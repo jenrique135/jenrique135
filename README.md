@@ -1,7 +1,7 @@
 # João Enrique
 
-#### • Dev Back End - C# & Java
-#### • Conhecimento de Banco de dados relacionais - MySql
+### • Dev Back End - C# & Java
+### • Conhecimento de Banco de dados relacionais - MySql
 ### • Desenvolvimento em Python como Hobby
 
 ##
