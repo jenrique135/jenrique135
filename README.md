@@ -5,10 +5,10 @@
 ### • Conhecimento de análise de dados com Python
 
 ##
-<div>
+<!--<div>
 <a href="https://github.com/jenrique135/jenrique135">
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenrique135&layout=compact&langs_count=16&theme=dark"/>  
-</div>
+</div>-->
 
 
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
 ##
 
 <div>
-<a href="https://github.com/jenrique135" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> <a href="https://instagram.com/j.enrique135" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://github.com/jenrique135" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
           
           
